@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "username": "theprogrammer",
+        "name": "Barzi",
+        "email": "barizjaf@web.de",
+        "phone": "176-327-984-22",
+        "website": "eazy.dev"
+    },
+    {
+        "id": 1,
+        "username": "lovely",
+        "name": "Cat",
+        "email": "catlovely@gmail.com",
+        "phone": "176-864-467-99",
+        "website": "cat.me"
+    }
+]
